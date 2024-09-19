@@ -14,9 +14,3 @@ Parts are:
 | QR | Intro |
 | -- | -- |
 | ![alt text](image.png) | ![alt text](image-1.png) |
-
-Run the test with 
-```
-yarn install or npm install
-yarn test or npm run test
-```
